@@ -1,0 +1,8 @@
+build/
+generated_letters/
+font_workspace/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+Ransom.ttf
